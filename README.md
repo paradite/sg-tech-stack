@@ -2,7 +2,7 @@
 
 > **Note** Companies are sorted alphabetically.
 
-> Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
+> Abbreviations:, OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
 Table of Contents:
 
@@ -11,29 +11,29 @@ Table of Contents:
 
 ## Backend
 
-| Company                | Backend Language | Backend Framework |
-| ---------------------- | ---------------- | ----------------- |
-| Alibaba (Ant)          | Java             | Sofa              |
-| Bytedance<br/>(TikTok) | Go               |                   |
-| Facebook               | Hack<br/>Python  | Django            |
-| Google                 | Java<br/>Go      |                   |
-| Grab                   | Go               |                   |
-| SEA(Shopee)            | Go               |                   |
-| Tencent                | C++<br/>Java     |                   |
-| Twitter                | Scala<br/>Java   |                   |
+| Company            | Backend Language | Backend Framework |
+| ------------------ | ---------------- | ----------------- |
+| Alibaba (Ant)      | Java             | Sofa              |
+| Bytedance (TikTok) | Go               |                   |
+| Facebook           | Hack, Python     | Django            |
+| Google             | Java, Go         |                   |
+| Grab               | Go               |                   |
+| SEA(Shopee)        | Go               |                   |
+| Tencent            | C++, Java        |                   |
+| Twitter            | Scala, Java      |                   |
 
 ## Frontend & Mobile
 
-| Company                | Frontend & Mobile Language                  | Frontend & Mobile Framework           |
-| ---------------------- | ------------------------------------------- | ------------------------------------- |
-| Alibaba (Ant)          | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Ant Design<br/>React Native |
-| Bytedance<br/>(TikTok) | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Semi-UI                     |
-| Facebook               | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
-| Google                 | JavaScript<br/>TypeScript<br/>Dart<br/>OSJK | Angular<br/>Flutter                   |
-| Grab                   | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
-| SEA(Shopee)            | JavaScript<br/>TypeScript                   | React<br/>React Native                |
-| Tencent                | JavaScript<br/>TypeScript<br/>Dart<br/>C++  | Flutter                               |
-| Twitter                | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
+| Company             | Frontend & Mobile Language         | Frontend & Mobile Framework     |
+| ------------------- | ---------------------------------- | ------------------------------- |
+| Alibaba (Ant)       | JavaScript, TypeScript, OSJK       | React, Ant Design, React Native |
+| Bytedance, (TikTok) | JavaScript, TypeScript, OSJK       | React, Semi-UI                  |
+| Facebook            | JavaScript, TypeScript, OSJK       | React                           |
+| Google              | JavaScript, TypeScript, Dart, OSJK | Angular, Flutter                |
+| Grab                | JavaScript, TypeScript, OSJK       | React                           |
+| SEA(Shopee)         | JavaScript, TypeScript             | React, React Native             |
+| Tencent             | JavaScript, TypeScript, Dart, C++  | Flutter                         |
+| Twitter             | JavaScript, TypeScript, OSJK       | React                           |
 
 ## References
 
