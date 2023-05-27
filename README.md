@@ -4,18 +4,18 @@
 
 > Abbreviations:
 > BE: Backend, FE: Frontend, MB: Mobile.
-> OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android). JS: JavaScript. TS: TypeScript.
+> OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
-| Company            | BE Language     | BE Framework | FE&MB Language              | FE&MB Framework                       |
-| ------------------ | --------------- | ------------ | --------------------------- | ------------------------------------- |
-| Alibaba (Ant)      | Java            | Sofa         | JS<br/>TS                   | React<br/>Ant Design<br/>React Native |
-| Bytedance (TikTok) | Java<br/>Go     | Spring       | JS<br/>TS                   | React<br/>Semi-UI                     |
-| Facebook           | Hack<br/>Python | Django       | JS<br/>TS                   | React                                 |
-| Google             | Java<br/>Go     |              | JS<br/>TS<br/>Dart<br/>OSJK | Angular<br/>Flutter                   |
-| Grab               | Go              |              | JS<br/>TS<br/>OSJK          | React                                 |
-| SEA(Shopee)        | Go              |              | JS<br/>TS                   | React<br/>React Native                |
-| Tencent            | C++<br/>Java    |              | JS<br/>TS<br/>Dart<br/>C++  | Flutter                               |
-| Twitter            | Scala<br/>Java  |              | JS<br/>TS<br/>OSJK          | React                                 |
+| Company            | BE Language     | BE Framework | FE&MB Language                              | FE&MB Framework                       |
+| ------------------ | --------------- | ------------ | ------------------------------------------- | ------------------------------------- |
+| Alibaba (Ant)      | Java            | Sofa         | JavaScript<br/>TypeScript                   | React<br/>Ant Design<br/>React Native |
+| Bytedance (TikTok) | Java<br/>Go     | Spring       | JavaScript<br/>TypeScript                   | React<br/>Semi-UI                     |
+| Facebook           | Hack<br/>Python | Django       | JavaScript<br/>TypeScript                   | React                                 |
+| Google             | Java<br/>Go     |              | JavaScript<br/>TypeScript<br/>Dart<br/>OSJK | Angular<br/>Flutter                   |
+| Grab               | Go              |              | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
+| SEA(Shopee)        | Go              |              | JavaScript<br/>TypeScript                   | React<br/>React Native                |
+| Tencent            | C++<br/>Java    |              | JavaScript<br/>TypeScript<br/>Dart<br/>C++  | Flutter                               |
+| Twitter            | Scala<br/>Java  |              | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
 
 ## References
 
