@@ -1,10 +1,10 @@
 # SG Tech Company Tech Stack
 
-> **Note** Companies are sorted alphabetically.
+**Abbreviations**
 
-> Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
+- OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
-Table of Contents:
+**Table of Contents**
 
 - [Backend](#backend)
 - [Frontend & Mobile](#frontend--mobile)
@@ -35,7 +35,9 @@ Table of Contents:
 | Tencent             | JavaScript, TypeScript, Dart, C++    | Flutter                         |
 | Twitter             | JavaScript, TypeScript, OSJK\*       | React                           |
 
-> Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
+**Abbreviations**
+
+- OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
 ## References
 
@@ -76,3 +78,5 @@ Twitter:
 This is a community collaborative project. PRs are welcome!
 
 This project uses `prettier` to format the markdown files. Please format your markdown files before submitting a PR.
+
+Please ensure that the companies are sorted alphabetically.
