@@ -2,11 +2,7 @@
 
 > **Note** Companies are sorted alphabetically.
 
-> Abbreviations:
-
-> BE: Backend, FE: Frontend, MB: Mobile.
-
-> OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
+> Abbreviations:<br/>BE: Backend, FE: Frontend, MB: Mobile.<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
 | Company                | BE Language     | BE Framework | FE&MB Language                              | FE&MB Framework                       |
 | ---------------------- | --------------- | ------------ | ------------------------------------------- | ------------------------------------- |
