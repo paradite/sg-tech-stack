@@ -2,18 +2,33 @@
 
 > **Note** Companies are sorted alphabetically.
 
-> Abbreviations:<br/>BE: Backend, FE: Frontend, MB: Mobile.<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
+> Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
-| Company                | BE Language     | BE Framework | FE&MB Language                              | FE&MB Framework                       |
-| ---------------------- | --------------- | ------------ | ------------------------------------------- | ------------------------------------- |
-| Alibaba (Ant)          | Java            | Sofa         | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Ant Design<br/>React Native |
-| Bytedance<br/>(TikTok) | Go              |              | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Semi-UI                     |
-| Facebook               | Hack<br/>Python | Django       | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
-| Google                 | Java<br/>Go     |              | JavaScript<br/>TypeScript<br/>Dart<br/>OSJK | Angular<br/>Flutter                   |
-| Grab                   | Go              |              | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
-| SEA(Shopee)            | Go              |              | JavaScript<br/>TypeScript                   | React<br/>React Native                |
-| Tencent                | C++<br/>Java    |              | JavaScript<br/>TypeScript<br/>Dart<br/>C++  | Flutter                               |
-| Twitter                | Scala<br/>Java  |              | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
+## Backend
+
+| Company                | Backend Language | Backend Framework |
+| ---------------------- | ---------------- | ----------------- |
+| Alibaba (Ant)          | Java             | Sofa              |
+| Bytedance<br/>(TikTok) | Go               |                   |
+| Facebook               | Hack<br/>Python  | Django            |
+| Google                 | Java<br/>Go      |                   |
+| Grab                   | Go               |                   |
+| SEA(Shopee)            | Go               |                   |
+| Tencent                | C++<br/>Java     |                   |
+| Twitter                | Scala<br/>Java   |                   |
+
+## Frontend & Mobile
+
+| Company                | Frontend & Mobile Language                  | Frontend & Mobile Framework           |
+| ---------------------- | ------------------------------------------- | ------------------------------------- |
+| Alibaba (Ant)          | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Ant Design<br/>React Native |
+| Bytedance<br/>(TikTok) | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Semi-UI                     |
+| Facebook               | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
+| Google                 | JavaScript<br/>TypeScript<br/>Dart<br/>OSJK | Angular<br/>Flutter                   |
+| Grab                   | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
+| SEA(Shopee)            | JavaScript<br/>TypeScript                   | React<br/>React Native                |
+| Tencent                | JavaScript<br/>TypeScript<br/>Dart<br/>C++  | Flutter                               |
+| Twitter                | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
 
 ## References
 
