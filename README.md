@@ -6,9 +6,9 @@
 
 | Company                | BE Language     | BE Framework | FE&MB Language                              | FE&MB Framework                       |
 | ---------------------- | --------------- | ------------ | ------------------------------------------- | ------------------------------------- |
-| Alibaba (Ant)          | Java            | Sofa         | JavaScript<br/>TypeScript                   | React<br/>Ant Design<br/>React Native |
-| Bytedance<br/>(TikTok) | Java<br/>Go     | Spring       | JavaScript<br/>TypeScript                   | React<br/>Semi-UI                     |
-| Facebook               | Hack<br/>Python | Django       | JavaScript<br/>TypeScript                   | React                                 |
+| Alibaba (Ant)          | Java            | Sofa         | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Ant Design<br/>React Native |
+| Bytedance<br/>(TikTok) | Go              |              | JavaScript<br/>TypeScript<br/>OSJK          | React<br/>Semi-UI                     |
+| Facebook               | Hack<br/>Python | Django       | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
 | Google                 | Java<br/>Go     |              | JavaScript<br/>TypeScript<br/>Dart<br/>OSJK | Angular<br/>Flutter                   |
 | Grab                   | Go              |              | JavaScript<br/>TypeScript<br/>OSJK          | React                                 |
 | SEA(Shopee)            | Go              |              | JavaScript<br/>TypeScript                   | React<br/>React Native                |
@@ -20,6 +20,13 @@
 General:
 
 - [Programming languages used in most popular websites](https://en.wikipedia.org/wiki/Programming_languages_used_in_most_popular_websites)
+
+Bytedance:
+
+- [为什么字节跳动选择使用 Go 语言？](https://www.zhihu.com/question/353085825)
+- [Semi-UI](https://github.com/DouyinFE/semi-design)
+- [抖音 Swift 编译优化 - 基于自定义 Toolchain 编译提速 60%](https://blog.csdn.net/ByteDanceTech/article/details/130120509?spm=1001.2014.3001.5501)
+- [抖音 Android 性能优化系列：Java 锁优化](https://blog.csdn.net/ByteDanceTech/article/details/125863436?spm=1001.2014.3001.5501)
 
 Facebook:
 
