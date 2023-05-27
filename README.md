@@ -2,7 +2,7 @@
 
 > **Note** Companies are sorted alphabetically.
 
-> Abbreviations:, OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
+> Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
 Table of Contents:
 
@@ -24,16 +24,18 @@ Table of Contents:
 
 ## Frontend & Mobile
 
-| Company             | Frontend & Mobile Language         | Frontend & Mobile Framework     |
-| ------------------- | ---------------------------------- | ------------------------------- |
-| Alibaba (Ant)       | JavaScript, TypeScript, OSJK       | React, Ant Design, React Native |
-| Bytedance, (TikTok) | JavaScript, TypeScript, OSJK       | React, Semi-UI                  |
-| Facebook            | JavaScript, TypeScript, OSJK       | React                           |
-| Google              | JavaScript, TypeScript, Dart, OSJK | Angular, Flutter                |
-| Grab                | JavaScript, TypeScript, OSJK       | React                           |
-| SEA(Shopee)         | JavaScript, TypeScript             | React, React Native             |
-| Tencent             | JavaScript, TypeScript, Dart, C++  | Flutter                         |
-| Twitter             | JavaScript, TypeScript, OSJK       | React                           |
+| Company             | Frontend & Mobile Language           | Frontend & Mobile Framework     |
+| ------------------- | ------------------------------------ | ------------------------------- |
+| Alibaba (Ant)       | JavaScript, TypeScript, OSJK\*       | React, Ant Design, React Native |
+| Bytedance, (TikTok) | JavaScript, TypeScript, OSJK\*       | React, Semi-UI, Arco Design     |
+| Facebook            | JavaScript, TypeScript, OSJK\*       | React                           |
+| Google              | JavaScript, TypeScript, Dart, OSJK\* | Angular, Flutter                |
+| Grab                | JavaScript, TypeScript, OSJK\*       | React                           |
+| SEA(Shopee)         | JavaScript, TypeScript               | React, React Native             |
+| Tencent             | JavaScript, TypeScript, Dart, C++    | Flutter                         |
+| Twitter             | JavaScript, TypeScript, OSJK\*       | React                           |
+
+> Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
 ## References
 
