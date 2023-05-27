@@ -4,6 +4,11 @@
 
 > Abbreviations:<br/>OSJK: Objective-C, Swift, Java, Kotlin (Native iOS/Android).
 
+Table of Contents:
+
+- [Backend](#backend)
+- [Frontend & Mobile](#frontend--mobile)
+
 ## Backend
 
 | Company                | Backend Language | Backend Framework |
