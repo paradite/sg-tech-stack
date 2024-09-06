@@ -11,16 +11,17 @@
 
 ## Backend
 
-| Company            | Backend Language | Backend Framework |
-| ------------------ | ---------------- | ----------------- |
-| Alibaba (Ant)      | Java             | Sofa              |
-| Bytedance (TikTok) | Go               |                   |
-| Facebook           | Hack, Python     | Django            |
-| Google             | Java, Go         |                   |
-| Grab               | Go               |                   |
-| SEA(Shopee)        | Go               |                   |
-| Tencent            | C++, Java        |                   |
-| Twitter            | Scala, Java      |                   |
+| Company            | Backend Language | Backend Framework    |
+| ------------------ | ---------------- | -------------------- |
+| Alibaba (Ant)      | Java             | Sofa                 |
+| Bytedance (TikTok) | Go               |                      |
+| Facebook           | Hack             | Propritery Framework |
+| Instagram          | Python           | Django               |
+| Google             | Java, Go         |                      |
+| Grab               | Go               |                      |
+| SEA (Shopee)       | Go               |                      |
+| Tencent            | C++, Java        |                      |
+| Twitter            | Scala, Java      |                      |
 
 ## Frontend & Mobile
 
@@ -31,7 +32,7 @@
 | Facebook            | JavaScript, TypeScript, OSJK\*       | React                           |
 | Google              | JavaScript, TypeScript, Dart, OSJK\* | Angular, Flutter                |
 | Grab                | JavaScript, TypeScript, OSJK\*       | React                           |
-| SEA(Shopee)         | JavaScript, TypeScript               | React, React Native             |
+| SEA (Shopee)        | JavaScript, TypeScript               | React, React Native             |
 | Tencent             | JavaScript, TypeScript, Dart, C++    | Flutter                         |
 | Twitter             | JavaScript, TypeScript, OSJK\*       | React                           |
 
