@@ -11,17 +11,18 @@
 
 ## Backend
 
-| Company            | Backend Language | Backend Framework    |
-| ------------------ | ---------------- | -------------------- |
-| Alibaba (Ant)      | Java             | Sofa                 |
-| Bytedance (TikTok) | Go               |                      |
-| Facebook           | Hack             | Propritery Framework |
-| Instagram          | Python           | Django               |
-| Google             | Java, Go         |                      |
-| Grab               | Go               |                      |
-| SEA (Shopee)       | Go               |                      |
-| Tencent            | C++, Java        |                      |
-| Twitter            | Scala, Java      |                      |
+| Company            | Backend Language | Backend Framework                           |
+| ------------------ | ---------------- | ------------------------------------------- |
+| Alibaba (Ant)      | Java             | Sofa                                        |
+| Bytedance (TikTok) | Go               |                                             |
+| Carousell          | Go               | [Orion](https://github.com/carousell/Orion) |
+| Facebook           | Hack             | Propritery Framework                        |
+| Instagram          | Python           | Django                                      |
+| Google             | Java, Go         |                                             |
+| Grab               | Go               |                                             |
+| SEA (Shopee)       | Go               |                                             |
+| Tencent            | C++, Java        |                                             |
+| Twitter            | Scala, Java      |                                             |
 
 ## Frontend & Mobile
 
@@ -29,6 +30,7 @@
 | ------------------- | ------------------------------------ | ------------------------------- |
 | Alibaba (Ant)       | JavaScript, TypeScript, OSJK\*       | React, Ant Design, React Native |
 | Bytedance, (TikTok) | JavaScript, TypeScript, OSJK\*       | React, Semi-UI, Arco Design     |
+| Carousell           | JavaScript, TypeScript, OSJK\*       | React                           |
 | Facebook            | JavaScript, TypeScript, OSJK\*       | React                           |
 | Google              | JavaScript, TypeScript, Dart, OSJK\* | Angular, Flutter                |
 | Grab                | JavaScript, TypeScript, OSJK\*       | React                           |
@@ -73,6 +75,13 @@ Twitter:
 
 - [Tech stack at twitter](https://www.teamblind.com/post/Tech-stack-at-twitter-NePrdZEh)
 - [How we built Twitter Lite](https://blog.twitter.com/engineering/en_us/topics/open-source/2017/how-we-built-twitter-lite)
+
+Carousell
+
+- [在旋轉拍賣 Carousell 一年看到的後端架構、挑戰與生活](https://medium.com/carousell-insider/%E5%9C%A8%E6%97%8B%E8%BD%89%E6%8B%8D%E8%B3%A3-carousell-%E4%B8%80%E5%B9%B4%E7%9C%8B%E5%88%B0%E7%9A%84%E5%BE%8C%E7%AB%AF%E6%9E%B6%E6%A7%8B-%E6%8C%91%E6%88%B0%E8%88%87%E7%94%9F%E6%B4%BB-a0a12ef90cc0)
+- [How Carousell launched its first widget for iOS14 (Part 2)](https://medium.com/carousell-insider/how-carousell-launched-its-first-widget-for-ios14-part-2-89f952ab616)
+- [The Browse page refactoring journey on Android](https://medium.com/carousell-insider/the-browse-page-refactoring-journey-on-android-3a3265d8fcab)
+- [Acing Your Front-End Coding Interview at Carousell](https://medium.com/carousell-insider/acing-your-front-end-coding-interview-at-carousell-3978fb3669f7)
 
 ## Contribution
 
